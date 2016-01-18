@@ -26,7 +26,7 @@ ember deploy
 
 ## Understanding your deployment strategy
 
-While ember-cli-deploy is very good at deploying your Ember application, there are a few things it needs you to setup in order to tell it what to deploy and where.
+While ember-cli-deploy is very good at deploying your Ember application, there are a few things it needs you to set up in order to tell it what to deploy and where.
 
 A deployment strategy is often very unique to a particular application or company and they are not something that can really be derived automatically by conventions.
 
